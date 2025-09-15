@@ -1,0 +1,165 @@
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mūlapariyāya Sutta</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Dhammachai Tipitaka Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     
+                  </repository>
+                  <idno type="shelfmark">B05</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>test collation</summary>
+                  
+               <msItem xml:id="B05" defective="false"><title xml:lang="pi">Mūlapariyāya Sutta</title><textLang mainLang="pli"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="1"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+<text corresp="#B05" xml:lang="pi"><body>
+  <div>
+<lb/><del>BLANK</del>
+<lb/><head n="1"> </head> <head n="2"> </head> <!--lb n="5"/--> namo tassa bhagavato arahato sammāsambuddhassa <head n="3"> </head> <head n="4"> </head><p xml:id="MūPaSu-n1"> evaṃ me sutaṃ ekaṃ samayaṃ bhaga
+<lb break="no"/>vā ukkaṭṭhāyaṃ viharati subhagavane sālarājamūle tatra kho bhagavā bhikkhū āmantesi bhi
+<lb break="no"/>kkhavo ti bhaddante ti te bhikkhū bhagavato paccasosuṃ bhagavā etadavoca <!--lb n="15"/--> sabbadhammamūlapa
+<lb break="no"/>riyāyaṃ vo bhikkhave desissāmi taṃ suṇātha sādhukaṃ manasi karotha bhāsissāmi
+<lb/>ti evaṃ bhante ti kho te bhikkhū bhagavato paccasosuṃ bhagavā etadavoca </p> <p xml:id="MūPaSu-n2"> idha bhikkhave
+<lb/><space rend="stringhole"/>asutavā puthujjano ariyānaṃ adassāvī <!--lb n="20"/--> ariyadhammassa akovido ariyadhamme avini-<space rend="stringhole"/>
+<lb/>to sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinito pa
+<lb break="no"/>thaviṃ pathavīto sañjānāti pathaviṃ pathavīto saññatā pathaviṃ maññati pathaviyā maññati
+<lb/>pathavīto maññati pathavī peti maññati pathaviṃ abhinandati taṃ kissa hetu apariññātaṃ
+<lb/>tassā ti vadāmi <!--lb n="25"/--> āpaṃ āpato sañjānāti āpaṃ āpato saññatvā āpaṃ maññati ā
+<lb break="no"/>pasmiṃ maññati āpato maññati āpaṃ meti maññati āpaṃ abhinandati taṃ kissa hetu a
+<lb break="no"/>pariññātaṃ tassā ti vadāmi <!--lb n="30"/--> tejaṃ tejato sañjānāti tejaṃ tejato saññatvā te
+<lb break="no"/><space rend="stringhole"/>jaṃ maññati tejasmiṃ maññati tejato maññati tejaṃ meti maññati tejaṃ abhinandati taṃ ki-<space rend="stringhole"/>
+<lb/><space rend="stringhole"/>ssa hetu apariññātaṃ tassā ti vadāmi vāyaṃ vāyato sañjānāti vāyaṃ vāyato sañña-<space rend="stringhole"/>
+<lb/><space rend="stringhole"/>tvā vāyaṃ maññati <!--lb n="35"/--> vāyasmiṃ maññati vāyato maññati vāyaṃ meti maññati vāyaṃ abhinandati<space rend="stringhole"/> 
+<lb/><space rend="stringhole"/>taṃ kissa hetu apariññātaṃ tassā ti vadāmi </p><p xml:id="MūPaSu-n3"> bhūte bhūtato sañjānāti bhūte bhū-<space rend="stringhole"/>
+<lb/><space rend="stringhole"/>tato saññatvā bhūte maññati bhūtesu maññati bhūtato maññati bhūte meti ma-<space rend="stringhole"/>
+<lb/><space rend="stringhole"/>ññati bhūte <!--lb n="40"/--> abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi deve devato<space rend="stringhole"/> 
+<lb/><space rend="stringhole"/>sañjānāti deve devato saññatvā deve maññati devesu maññati devato maññati<space rend="stringhole"/> 
+<lb/><space rend="stringhole"/>deve meti maññati deve abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi <!--lb n="45"/--> pa-<space rend="stringhole"/>
+<lb/><space rend="stringhole"/>jāpatiṃ pajāpatito sañjānāti pajāpatiṃ pajāpatito saññatvā pajāpatiṃ maññati pa-<space rend="stringhole"/>
+<lb/><space rend="stringhole"/>jāpatismiṃ maññati pajāpatito maññati pajāpati meti maññati pajāpatiṃ abhinandati taṃ ki-<space rend="stringhole"/>
+<lb/><space rend="stringhole"/>ssa hetu apariññātaṃ tassā ti vadāmi <!--lb n="50"/--> brahmaṃ brahmato sañjānāti brahmaṃ brahmato sa-<space rend="stringhole"/>
+<lb/><space rend="stringhole"/>ññatvā brahmaṃ maññati brahmasmiṃ maññati brahmato maññati brahmaṃ meti maññati brahmaṃ abhinanda-<space rend="stringhole"/>
+<lb/>ti taṃ kissa hetu apariññātaṃ tassā ti vadāmi <!--lb n="55"/--> ābhassare ābhassarato sañjānāti ābhassare ābhassarato saññatvā ābhassare maññati ābhassaresu maññati ābhassarato maññati ā
+<lb break="no"/>bhassare meti maññati ābhassare abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi <!--lb n="60"/--> subhakiṇhe subhakiṇhato sañjānāti subhakiṇhe subhakiṇhato saññatvā kiṇhe maññati subhakiṇhesu mañña
+<lb break="no"/>ti subhakiṇhato maññati subhakiṇhe metaṃ maññati subhakiṇhe abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi <!--lb n="65"/--> ve<subst><del>ta</del><add>ha</add></subst>ppha<subst><del>lo</del><add>le</add></subst> vehapphalato sañjānāti vehapphale vehapphalato saññatvā veha
+<lb break="no"/>pphale maññati vehapphalesu maññati vehapphalato maññati vehapphale meti maññati vehapphale abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi <!--lb n="70"/--> abhibhuṃ abhibhūto sañjānāti abhibhuṃ abhibhūto
+<lb/>saññatvā abhibhuṃ maññati abhibhusmiṃ maññati abhibhūto <space rend="stringhole"/>maññati abhibhuṃ meti maññati abhibhuṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadā<space rend="stringhole"/>mi <!--lb n="75"/--></p><p xml:id="MūPaSu-n4"> ākāsānañjāyatanaṃ ākāsānañjāyatanato
+<lb/>sañjānāti ākāsānañcāyatanaṃ ākāsānañcāyata<space rend="stringhole"/>nato saññatvā ākāsānañcāyatanaṃ maññati ākāsānañcāyatanasmiṃ maññati ākāsā<space rend="stringhole"/>nañjāyatanato maññati ākāsānañcāyatanaṃ meti
+<lb/>maññati ākāsānañcāyatanaṃ abhinandati taṃ kissa he<space rend="stringhole"/>tu apariññātaṃ tassā ti <!--lb n="80"/--> vadāmi viññāṇañcāyatanaṃ viññāṇañcāyatanato sañjānāti viññā<space rend="stringhole"/>ṇañcāyatanaṃ viññāṇañcāyatanato saññatvā viññāṇa
+<lb break="no"/>ñcāyatanaṃ maññati viññāṇañcāyatanasmiṃ maññati viññāṇa<space rend="stringhole"/>ñcāyatanato maññati viññāṇañcā<!--lb n="85"/-->yatanaṃ meti maññati viññāṇañcāyatanaṃ abhinandati taṃ kissa <space rend="stringhole"/>hetu apariññātaṃ tassā ti vadāmi ākiñcaññāyata
+<lb break="no"/>naṃ ākiñcaññāyatanato sañcānāti ākiñcaññāyatanaṃ ākiñcaññāyatanato <add>sa</add>ññatvā ākiñcaññāyatanaṃ maññati <!--lb n="90"/--> ākiñcaññāyatanasmiṃ maññati ākiñcaññāyatanato maññati ākiñcaññāyatana meti mañña
+<lb break="no"/>ti ākiñcaññāyatanaṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi nevasaññānāsaññāyatanaṃ nevasaññānāsaññāyatanato sañjā<!--lb n="95"/-->nāti nevasaññānāsaññāyatanaṃ nevasaññānāsaññāyatanato
+<lb/>saññatvā nevasaññānāsaññāyatanaṃ maññati nevasaññānāsaññāyatanasmiṃ maññati nevasaññānāsaññāyatanato maññati nevasaññānāsaññāyatanaṃ meti maññati nevasaññānāsaññāyatanaṃ abhinandati taṃ kissa
+<lb/>hetu apariññātaṃ tassā ti vadāmi <!--lb n="100"/--></p><p xml:id="MūPaSu-n5"> diṭṭhaṃ diṭṭhato sañjānāti diṭṭhaṃ diṭṭhato saññatvā diṭṭhaṃ maññati diṭṭhasmiṃ maññati diṭṭhato maññati diṭṭhaṃ meti maññati diṭṭhaṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi <!--lb n="105"/--> sutaṃ
+<lb/>sutato sañjānāti sutaṃ sutato saññatvā sutaṃ maññati sutasmiṃ maññati sutato maññati sutaṃ meti maññati sutaṃ abhinandati taṃ kissa hetu apariññātaṃ tassā mi vadāmi mutaṃ mutato sañjānāti 
+<lb/>mutaṃ mutato saññatvā mutaṃ maññati <!--lb n="110"/--> mutasmiṃ maññati mutato maññati mutaṃ meti maññati mutaṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi viññātaṃ viññātato sañjānāti viññātaṃ viññātato 
+<lb/>saññatvā viññātaṃ maññati viññātasmiṃ maññati viññātato maññati viññātaṃ <!--lb n="115"/--> meti maññati viññātaṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi </p><p xml:id="MūPaSu-n6"> ekattaṃ ekattato sañjānāti ekattaṃ ekattato 
+<lb/>saññatvā ekattaṃ maññati ekattasmiṃ maññati ekattato maññati ekattaṃ meti <!--lb n="120"/--> maññati ekattaṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi nānattaṃ nānattato sañjānāti nānattaṃ nānattato saññatvā 
+<lb/>nānattaṃ maññati nānattasmiṃ maññati nānattato maññati nāna<space rend="stringhole"/>ttaṃ meti <!--lb n="125"/--> maññati nānattaṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi sabbaṃ sabba<space rend="stringhole"/>to sañjānāti sabbaṃ sabbato saññatvā sabbaṃ maññati 
+<lb/>sabbasmiṃ maññati sabbato maññati sabbaṃ meti maññati <space rend="stringhole"/>sabbaṃ abhinandati <!--lb n="130"/--> taṃ kissa hetu apariññātaṃ tassā ti vadāmi nibbānaṃ nibbānato sañjānā<space rend="stringhole"/>ti nibbānaṃ nibbānato saññatvā nibbānaṃ maññati nibbānasmiṃ 
+<lb/>maññati nibbānato maññati nibbānaṃ meti maññati nibbānaṃ <space rend="stringhole"/>abhinandati taṃ kissa hetu apariññātaṃ tassā ti <!--lb n="135"/--> vadāmi puthujjanavasena pathamanayabhu<space rend="stringhole"/>mmiparicchedo </p><p xml:id="MūPaSu-n7"> yopi so bhikkhave bhikkhu sekkho a
+<lb break="no"/>ppattamānaso anuttaraṃ <!--lb n="140"/-->yogakkhemaṃ patthayamāno viha<space rend="stringhole"/>rati sopi pathavī pathavito abhijānāti pathaviṃ pathavīto abhiññāya pathaviṃ mā maññi pa<space rend="stringhole"/>thaviyā mā maññi pathavito mā maññi pathavi meti mā ma
+<lb break="no"/>ññi pathaviī mābhinandi taṃ kissa hetu pariññeyyaṃ tassā ti vadāmi <!--lb n="145"/--> āpaṃ tejaṃ vāyaṃ bhūte deve pajāpatiṃ brahmaṃ ābhassare subhakiṇhe vehapphale abhibhuṃ ākāsānañcāyatanaṃ viññāṇañcāyatanaṃ ākiñca
+<lb break="no"/>ññāyatanaṃ nevasaññānāsaññāyatanaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ ekattaṃ nānattaṃ sabbaṃ nibbānaṃ nibbānato abhijānāti nibbānaṃ nibbānato abhiññāya nibbānaṃ mā maññi nibbānasmiṃ mā maññi <!--lb n="150"/--> nibbānato mā maññi nibbānaṃ meti mā maññi 
+<lb/>nibbānaṃ mābhinandi taṃ kissa hetu pariññeyyaṃ tassā ti vadāmi sekhavasena dutiyanayabhummiparicchedo <!--lb n="155"/--></p><p xml:id="MūPaSu-n8"> yopi so bhikkhave bhikkhu arahaṃ khiṇāsavo vusitavā katakaraṇiyo ohitabhāro 
+<lb/>anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto sopi pathaviṃ pathavīto abhijānāti pathaviṃ pathavīto abhiññāya pathavī na maññati pathaviyā na maññati pathavito na maññati pathavī 
+<lb/>meti na maññati pathaviṃ nābhinandati taṃ <!--lb n="160"/--> kissa hetu pariññātaṃ tassā ti vadāmi āpaṃ tejaṃ vāyaṃ bhūte deve pajā<del>na</del>pati brahmaṃ ābhassare subhakiṇhe vehapphale abhibhuṃ ākāsānañcāyatanaṃ viññāṇañcāya
+<lb break="no"/>tanaṃ ākiñcaññāyatanaṃ nevasaññānāsaññāyatanaṃ diṭṭhaṃ sutaṃ mutaṃ <!--lb n="165"/--> viññātaṃ ekattaṃ nānattaṃ sabbaṃ nibbānaṃ to abhijānāti nibbānaṃ nibbānato abhiññāya nibbānaṃ na maññati nibbānasmiṃ na maññati nibbānato maññati nibbānaṃ meti 
+<lb/>maññati nibbānaṃ nābhinandati taṃ kissa hetu pariññātaṃ tassā ti vadāmi <!--lb n="170"/--> khiṇāsavavasena tatiyanayabhummiparicchedo </p><p xml:id="MūPaSu-n9"> yopi so bhikkhave bhikkhu arahaṃ khiṇāsavo vusitavā katakaraṇiyo ohitabhāro 
+<lb/>anuppattasadattho parikkhiṇabhavasaṃyojano sammadaññā vimutto sopi pathaviṃ pathavīto abhijānāti <!--lb n="175"/--> pathaviṃ pathavito abhiññāya pathaviṃ na maññati pathaviyā na maññati pathavīto na maññati pathaviṃ meti na mañña
+<lb break="no"/>ti pathaviṃ nābhinandati taṃ kissa hetu khayā rāgassa vita<space rend="stringhole"/>rāgattā āpaṃ tejaṃ vāyaṃ bhūte deve pajāpatiṃ brahmaṃ ābhassare <!--lb n="180"/--> subhakiṇhe vehapphale <space rend="stringhole"/> abhibhuṃ ākāsānañcāyatanaṃ viññāṇañcāyatanaṃ āki
+<lb break="no"/>ñcaññāyatanaṃ nevasaññānāsaññāyatanaṃ diṭṭhaṃ sutaṃ mutaṃ <space rend="stringhole"/> viññātaṃ ekattaṃ nānattaṃ sabbaṃ nibbānaṃ nibbānato abhijānāti nibbānaṃ nibbānato abhiññāya ni<space rend="stringhole"/>bbānaṃ na maññati nibbānasmiṃ na maññati nibbānato na maññati ni
+<lb break="no"/>bbānaṃ meti na maññati nibbānaṃ nābhinandati taṃ kissa hetu <space rend="stringhole"/> <!--lb n="185"/--> khayā rāgassa vitarāgattā khiṇāsavavasena catutthanayabhummiparicchedo </p><p xml:id="MūPaSu-n10"> yopi so bhikkhave bhikkhu arahaṃ khiṇāsavo vusitavā <!--lb n="190"/--> katakara
+<lb break="no"/>ṇiyo ohitabhāro anuppattasadatto parikkhiṇabha<space rend="stringhole"/>vasaṃyojano sammadaññā vimutto sopi pathaviṃ pathavito abhijānāti pathaviṃ pathavito <space rend="stringhole"/> abhiññāya pathaviṃ na maññati pathaviyā na maññati pathavi
+<lb break="no"/>to na maññati pathaviṃ meti na maññati pathaviṃ nābhinandati taṃ kissa hetu khayā dosassa vitadosattā <!--lb n="195"/--> āpaṃ tejaṃ vāyaṃ bhūte deve pajāpatiṃ brahmaṃ ābhassare subhakiṇhe vehapphale abhibhuṃ ākāsāna
+<lb break="no"/>ñcāyatanaṃ viññāṇañcāyatanaṃ ākiñcaññāyatanaṃ nevasaññānāsaññāyatanaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ ekattaṃ nānattaṃ sabbaṃ nibbānaṃ nibbānato abhijānāti nibbānaṃ <!--lb n="200"/--> nibbānato abhiññāya nibbānaṃ na maññati nibbānasmiṃ na maññati nibbā
+<lb break="no"/>nato na maññati nibbānaṃ meti na maññati nibbānaṃ nābhinandati taṃ kissa hetu khayā dosassa vitadosattā khiṇāsavavasena pañcamanayabhummiparicchedo <!--lb n="205"/--></p><p xml:id="MūPaSu-n11"> yopi so bhikkhave bhikkhu arahaṃ khiṇāsavo vusitavā kara
+<lb break="no"/>ṇiyo ohitabhāro anuppattasadatto parikkhiṇabhavasaṃyojano sammadaññā vimutto sopi pathaviṃ pathavito abhijānāti pathavito abhiññāya pathaviṃ na maññati pathavīyā na maññati <!--lb n="210"/--> pathavīto na mañña
+<lb break="no"/>ti pathaviṃ nābhinandati taṃ kissa hetu khayā mohassa vitamohattā āpaṃ tejaṃ vāyaṃ bhūte deve pajāpati brahmaṃ ābhassare subhakiṇhe vehapphale abhibhuṃ ākāsānañcāyatanaṃ viññāṇañcā<!--lb n="215"/-->yatanaṃ
+<lb/>ākiñcaññāyatanaṃ nevasaññānāsaññāyatanaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ ekattaṃ nānattaṃ sabbaṃ nibbānaṃ nibbānato abhijānāti nibbānaṃ nibbānato abhiññāya nibbānaṃ na maññati nibbānasmiṃ na maññati nibbānato na maññati nibbānaṃ me
+<lb break="no"/>ti na maññati nibbānaṃ nābhinandati taṃ kissa hetu khayā mohassa vitamohattā <!--lb n="220"/--> khiṇāsavavasena chaṭṭhanayabhummiparicchedo </p><p xml:id="MūPaSu-n12"> tathāgatopi bhikkhave arahaṃ sammāsambuddho pathaviṃ pathavito abhijānāti pa
+<lb break="no"/>thaviṃ pathavito abhiññāya pathaviṃ na maññati <!--lb n="225"/--> pathaviyā na maññati pathavito na maññati pathaviṃ meti na maññati pathaviṃ nābhinandati taṃ kissa hetu pariññātantaṃ tathāgatassā ti vadāmi āpaṃ tejaṃ vāya bhūte de
+<lb break="no"/>ve pajāpatiṃ brahmaṃ ābhassare <!--lb n="230"/--> subhakiṇhe vehappha<space rend="stringhole"/>le abhibhuṃ ākāsānañcāyatanaṃ viññāṇañcāyatanaṃ ākiñcaññāyatanaṃ nevasaññānāsa<space rend="stringhole"/>ññāyatanaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ ekattaṃ nānattaṃ sabbaṃ ni
+<lb break="no"/>bbānaṃ nibbānato abhijānāti nibbānaṃ nibbānato abhi<space rend="stringhole"/>ññāya nibbānaṃ na maññati nibbānasmiṃ na maññati nibbānato na maññati nibbānaṃ meti na maññati nibbānaṃ nā<space rend="stringhole"/>bhinandati <!--lb n="235"/--> taṃ kissa hetu pariññātantaṃ tathāgatassā
+<lb/>ti vadāmi satthuvasena sattamanayabhummiparicchedo <space rend="stringhole"/> </p><p xml:id="MūPaSu-n13"> tathāgatopi bhikkhave arahaṃ sammāsambuddho pathaviṃ pathavito <!--lb n="240"/--> abhijānāti pathaviṃ pa<space rend="stringhole"/>thavito abhiññāya pathaviṃ na maññati pathaviyā na mañña
+<lb break="no"/>ti pathavito na maññati pathaviṃ meti na maññati pathaviṃ <space rend="stringhole"/> nābhinandati taṃ kissa hetu nandi dukkhassa mūlanti iti viditvā bhavā jāti bhūtassa jarāmaraṇanti <space rend="stringhole"/>tasmā tiha bhikkhave tathāgato sabbaso taṇhānaṃ
+<lb/>khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṃ <!--lb n="245"/--> sammāsambodhiṃ abhisambuddho ti vadāmi āpaṃ tejaṃ vāyaṃ bhūte deve pajāpati brahmaṃ ābhassare subhakiṇhe vehapphale abhibhuṃ ākāsānañcāyatanaṃ viññāṇañcā
+<lb break="no"/>yatanaṃ ākiñcaññāyatanaṃ nevasaññānāsaññāyatanaṃ diṭṭhaṃ sutaṃ mutaṃ <!--lb n="250"/--> viññātaṃ ekattaṃ nānattaṃ sabbaṃ nibbānaṃ nibbānato abhijānāti nibbānaṃ nibbānato abhiññāya nibbānaṃ na maññati nibbānasmiṃ na maññati nibbānato na maññati nibbā
+<lb break="no"/>naṃ meti na maññati nibbānaṃ <!--[[-->meti na maññati<!--]]--> nābhinandati taṃ kissa hetu nandi dukkhassa mūlanti iti viditvā bhavā jāti bhūtassa jarāmaraṇanti tasmā tiha bhikkhave tathāgato sabbaso taṇhānaṃ <!--lb n="255"/--> khayā virāgā niro
+<lb break="no"/>dhā cāgā paṭinissaggā anuttaraṃ sammāsambodhiṃ abhisambuddho ti vadāmi ti satthuvasena aṭṭhamanayabhummiparicchedo <!--lb n="260"/--> idamavoca bhagavā te bhikkhū bhagavato bhāsitaṃ nābhinandunti mūlapariyāyasuttaṃ
+<lb/>pathamaṃ <!--lb n="265"/--><head n="4"/></p>
+<lb/>  </div>
+</body>
+</text></TEI>
