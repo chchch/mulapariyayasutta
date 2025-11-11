@@ -20,7 +20,7 @@
                <msContents class="#STM">
                   <summary>test collation</summary>
                   
-               <msItem xml:id="Be" defective="false"><title xml:lang="pi">Mūlapariyāya Sutta</title><textLang mainLang="pli"/></msItem></msContents>
+               <msItem defective="false" xml:id="Be"><title xml:lang="pi">Mūlapariyāya Sutta</title><textLang mainLang="pli"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -84,14 +84,13 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    </facsimile>
-<text corresp="#Be" xml:lang="pi"><body>
-  <div>
-<lb/><head n="1">majjhimanikāya</head>
-<lb/><head n="2">mūlapaṇṇāsapāḷi</head>
-<lb/>namo tassa bhagavato arahato sammāsambuddhassa
-<lb/><head n="3">1. mūlapariyāyavagga</head>
-<lb/><head n="4">1. mūlapariyāyasutta</head>
-<lb/><p xml:id="MūPaSu-n1"> evaṃ me sutaṃ ekaṃ samayaṃ bhagavā ukkaṭṭhāyaṃ viharati subhagavane
+<text xml:lang="pi" corresp="#Be"><body><!--Be.09.--><pb n="1" facs="001.jpg"/>                                     
+<head n="1">majjhimanikāya</head>
+<head n="2">mūlapaṇṇāsapāḷi</head>
+namo tassa bhagavato arahato sammāsambuddhassa
+<head n="3">1. mūlapariyāyavagga</head>
+<head n="4">1. mūlapariyāyasutta</head>
+<p xml:id="MūPaSu-n1"> evaṃ me sutaṃ ekaṃ samayaṃ bhagavā ukkaṭṭhāyaṃ viharati subhagavane
 <lb/>sālarājamūle tatra kho bhagavā bhikkhū āmantesi bhikkhavo ti
 <lb/>bhadante ti te bhikkhū bhagavato paccassosuṃ bhagavā etadavoca
 <lb/>sabbadhammamūlapariyāyaṃ vo bhikkhave desessāmi taṃ suṇātha sādhukaṃ
@@ -106,6 +105,7 @@
 <lb/>āpaṃ āpato sañjānāti āpaṃ āpato saññatvā āpaṃ
 <lb/>maññati āpasmiṃ maññati āpato maññati āpaṃ meti maññati āpaṃ
 <lb/>abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi
+<lb/><!--Be.09.-->                                     
 <lb/>tejaṃ tejato sañjānāti tejaṃ tejato saññatvā tejaṃ
 <lb/>maññati tejasmiṃ maññati tejato maññati tejaṃ meti maññati
 <lb/>tejaṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti vadāmi
@@ -133,12 +133,13 @@
 <lb/>saññatvā subhakiṇhe maññati subhakiṇhesu maññati subhakiṇhato
 <lb/>maññati subhakiṇhe meti maññati subhakiṇhe abhinandati taṃ kissa
 <lb/>hetu apariññātaṃ tassā ti vadāmi
+<lb/><!--Be.09.-->                                     
 <lb/>vehapphale vehapphalato sañjānāti vehapphale vehapphalato
 <lb/>saññatvā vehapphale maññati vehapphalesu maññati vehapphalato
 <lb/>maññati vehapphale meti maññati vehapphale abhinandati taṃ kissa
 <lb/>hetu apariññātaṃ tassā ti vadāmi
-<lb/>abhibhuṃ abhibhūto sañjānāti abhibhuṃ abhibhūto saññatvā
-<lb/>abhibhuṃ maññati abhibhusmiṃ maññati abhibhūto maññati abhibhuṃ meti
+<lb/>abhibhuṃ abhibhuto sañjānāti abhibhuṃ abhibhuto saññatvā
+<lb/>abhibhuṃ maññati abhibhusmiṃ maññati abhibhuto maññati abhibhuṃ meti
 <lb/>maññati abhibhuṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti
 <lb/>vadāmi
 <lb/></p><p xml:id="MūPaSu-n4"> ākāsānañcāyatanaṃ ākāsānañcāyatanato sañjānāti
@@ -163,6 +164,7 @@
 <lb/>maññati nevasaññānāsaññāyatanato maññati nevasaññānāsaññā
 <lb break="no"/>yatanaṃ meti maññati nevasaññānāsaññāyatanaṃ abhinandati taṃ kissa
 <lb/>hetu apariññātaṃ tassā ti vadāmi
+<lb/><!--Be.09.-->                                     
 <lb/></p><p xml:id="MūPaSu-n5"> diṭṭhaṃ diṭṭhato sañjānāti diṭṭhaṃ diṭṭhato saññatvā diṭṭhaṃ maññati diṭṭhasmiṃ
 <lb/>maññati diṭṭhato maññati diṭṭhaṃ meti maññati diṭṭhaṃ abhinandati taṃ kissa
 <lb/>hetu apariññātaṃ tassā ti vadāmi
@@ -192,6 +194,7 @@
 <lb/>nibbānaṃ abhinandati taṃ kissa hetu apariññātaṃ tassā ti
 <lb/>vadāmi
 <lb/>puthujjanavasena paṭhamanayabhūmiparicchedo niṭṭhito
+<lb/><!--Be.09.-->                                     
 <lb/></p><p xml:id="MūPaSu-n7"> yopi so bhikkhave bhikkhu sekkho appattamānaso anuttaraṃ
 <lb/>yogakkhemaṃ patthayamāno viharati sopi pathaviṃ pathavito abhi
 <lb break="no"/>jānāti pathaviṃ pathavito abhiññāya pathaviṃ mā maññi pathaviyā mā
@@ -204,7 +207,7 @@
 <lb/>nibbānaṃ nibbānato abhiññāya nibbānaṃ mā maññi nibbānasmiṃ mā maññi
 <lb/>nibbānato mā maññi nibbānaṃ meti mā maññi nibbānaṃ mābhinandi taṃ kissa
 <lb/>hetu pariññeyyaṃ tassā ti vadāmi
-<lb/>sekkhavasena dutiyanayabhūmiparicchedo niṭṭhito
+<lb/>sekkhavasena dutiyanayabhūmiparicchedo niṭṭhito 
 <lb/></p><p xml:id="MūPaSu-n8"> yopi so bhikkhave bhikkhu arahaṃ khīṇāsavo vusitavā
 <lb/>katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyo
 <lb break="no"/>jano sammadaññā vimutto sopi pathaviṃ pathavito abhijānāti
@@ -219,6 +222,7 @@
 <lb/>nibbānato na maññati nibbānaṃ meti na maññati nibbānaṃ nābhinandati
 <lb/>taṃ kissa hetu pariññātaṃ tassā ti vadāmi
 <lb/>khīṇāsavavasena tatiyanayabhūmiparicchedo niṭṭhito
+<lb/><!--Be.09.-->                                     
 <lb/></p><p xml:id="MūPaSu-n9"> yopi so bhikkhave bhikkhu arahaṃ khīṇāsavo vusitavā
 <lb/>katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyo
 <lb break="no"/>jano sammadaññā vimutto sopi pathaviṃ pathavito abhijānāti
@@ -247,6 +251,7 @@
 <lb/>na maññati nibbānaṃ meti na maññati nibbānaṃ nābhinandati taṃ kissa hetu
 <lb/>khayā dosassa vītadosattā
 <lb/>khīṇāsavavasena pañcamanayabhūmiparicchedo niṭṭhito
+<lb/><!--Be.09.-->                                     
 <lb/></p><p xml:id="MūPaSu-n11"> yopi so bhikkhave bhikkhu arahaṃ khīṇāsavo vusitavā
 <lb/>katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyo
 <lb break="no"/>jano sammadaññā vimutto sopi pathaviṃ pathavito abhijānāti
@@ -274,6 +279,7 @@
 <lb/>nibbānato na maññati nibbānaṃ meti na maññati nibbānaṃ nābhinandati
 <lb/>taṃ kissa hetu pariññātantaṃ tathāgatassā ti vadāmi
 <lb/>tathāgatavasena sattamanayabhūmiparicchedo niṭṭhito
+<lb/><!--Be.09.-->                                     
 <lb/></p><p xml:id="MūPaSu-n13"> tathāgatopi bhikkhave arahaṃ sammāsambuddho pathaviṃ pathavito
 <lb/>abhijānāti pathaviṃ pathavito abhiññāya pathaviṃ na maññati
 <lb/>pathaviyā na maññati pathavito na maññati pathaviṃ meti na maññati
@@ -294,8 +300,9 @@
 <lb/>tathāgatavasena aṭṭhamanayabhūmiparicchedo niṭṭhito
 <lb/>idamavoca bhagavā na te bhikkhū bhagavato bhāsitaṃ abhinandunti
 <lb/>mūlapariyāyasuttaṃ niṭṭhitaṃ paṭhamaṃ
-<lb/><head n="4">2. sabbāsavasutta</head>
-<lb/></p>
-<lb/>  </div>
-</body>
+<lb/>2. sabbāsavasutta
+<lb/></p><p xml:id="MūPaSu-n14"> evaṃ me sutaṃ ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
+<lb/>anāthapiṇḍikassa ārāme tatra kho bhagavā bhikkhū āmantesi
+<lb/>bhikkhavo ti bhadante ti te bhikkhū bhagavato paccassosuṃ bhagavā
+<lb/>etadavoca sabbāsavasaṃvarapariyāyaṃ vo bhikkhave desessāmi taṃ</p></body>
 </text></TEI>
